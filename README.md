@@ -17,3 +17,7 @@ Planowane w najbliższej przyszłości:
 - Sieci grafowe
 
 Na chwilę obecną treść notatników jest napisana w języku polskim. Jeżeli kiedyś znajdę odrobinę czasu, utworzę także angielskie wersje.
+
+
+Link do colaba z notatnikiem SCS:
+https://colab.research.google.com/drive/1eFdNohB345s9RDsH97uNJ-WIFjbMTrAQ?usp=sharing
