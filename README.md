@@ -21,3 +21,5 @@ Na chwilę obecną treść notatników jest napisana w języku polskim. Jeżeli 
 
 Link do colaba z notatnikiem SCS:
 https://colab.research.google.com/drive/1eFdNohB345s9RDsH97uNJ-WIFjbMTrAQ?usp=sharing
+Generator: https://drive.google.com/file/d/1vDOiG6U_l7fNIcAC-VtqO-Uimjv-xari/view?usp=sharing
+Dyskryminator: https://drive.google.com/file/d/1UanGLItBXPk6OFMlVvhmGtDh7omsfOwO/view?usp=sharing
